@@ -40,6 +40,9 @@ muty(y){
 mutv(v){
   this.v=v;
 }
+getv(){
+  return this.v;
+}
 getT(){
   return this.type;
 }
