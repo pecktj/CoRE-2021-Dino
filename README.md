@@ -1,4 +1,4 @@
-# CoRE-2021-ML-Dino
+# CoRE-2021-Dino
 
 Have you ever lost internet and you were forced to play that Chrome Dino Game. This project is a recreation of that dino game from scratch but amking it CoRE themed. This game has the CoRE bot soaring through the halls of O'connor having to dodge whatever is in its path. To recreate the Dino game, I used the p5 library in Javascript. This gave me certain features like creating shapes, taking in user inputs like key presses and letting me easily display images to the screen. All of the art assets were made from scratch using MS Paint, ee xcept the CoRE Bot.
 
